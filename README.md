@@ -21,3 +21,5 @@ MULTIMODAL TRANSFORMERS](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=97
 - [How to Design a Three-Stage Architecture for Audio-Visual Active Speaker Detection in the Wild](https://arxiv.org/pdf/2106.03932.pdf) 2021 [code](https://github.com/okankop/ASDNet)
 - [MAAS: Multi-modal Assignation for Active Speaker Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Alcazar_MAAS_Multi-Modal_Assignation_for_Active_Speaker_Detection_ICCV_2021_paper.pdf) 2021 IEEE/CVF International Conference on Computer Vision (ICCV) [code](https://github.com/fuankarion/MAAS)
 - [Multi-Task Learning for Audio-Visual Active Speaker Detection](https://static.googleusercontent.com/media/research.google.com/en//ava/2019/Multi_Task_Learning_for_Audio_Visual_Active_Speaker_Detection.pdf)
+- [Active Speaker Detection as a Multi-Objective Optimization with
+Uncertainty-based Multimodal Fusion](https://arxiv.org/pdf/2106.03821.pdf)
